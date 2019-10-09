@@ -1,1 +1,1 @@
-select * from emp1;
+insert into emp1(empname,salary) values('Hasim',450000);
