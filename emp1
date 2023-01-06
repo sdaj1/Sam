@@ -1,1 +1,0 @@
-insert into emp1(empname,salary) values('Hasim',450000);
